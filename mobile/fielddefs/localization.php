@@ -1,0 +1,1 @@
+<?php $default_language = "es_es";$time = "1423844072"; ?>
